@@ -1,6 +1,6 @@
 # Fernando Angeli
 
-<img src="logo.png" alt="Logo" width="180" style="border-radius: 50%;">
+<img src="logo1.png" alt="Logo" width="180" style="border-radius: 50%;">
 
 Desenvolvedor • Linux • Android • Redes • VPN • Servidores  
 Telegram: [@fernandoangeli](https://t.me/fernandoangeli)
